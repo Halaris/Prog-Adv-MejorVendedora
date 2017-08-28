@@ -10,7 +10,10 @@ import entities.Vendedora;
 import entities.Vendedoras;
 
 public class Main {
-
+/**
+ * 	Adding a comment to test git
+ * @param args
+ */
 	public static void main(String[] args) {
 
 		String file="in";
