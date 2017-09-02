@@ -25,7 +25,7 @@ public class Main {
 		    line = br.readLine();
 		    int cantVen= Integer.parseInt(line);
 		    int cantProd;
-		    int numVendor=1;
+		    int numVendor=1;//prueba de commits numero 2
 		    while (cantVen>0 &&(line = br.readLine()) != null) {
 		    	cantProd= Integer.parseInt(line);
 		    	vendor= new Vendedora();
